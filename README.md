@@ -52,11 +52,7 @@ I enjoy solving **technically challenging problems** such as retrieval, reasonin
 - Integrated **LangChain + Gemini** for automated business insights and report generation.  
 - End-to-end analytics workflow with **PDF exports** and interactive dashboards.
 
----
 
-## ✍️ Blogs
-- [Tradition Meets Technology: Generative AI as a Catalyst for Rural Artisans](https://medium.com/@mounikaalwar/tradition-meets-technology-generative-ai-as-a-catalyst-for-rural-artisans-437550364484)  
-- [GPUlympics: My Journey in Benchmarking and Predicting GPU Efficiency](https://open.substack.com/pub/mounikaalwar/p/gpulympics?utm_source=share&utm_medium=android&r=50rhqw)  
 
 ---
 
